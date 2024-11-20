@@ -1,6 +1,5 @@
 /******************
 Name: Yoav Kats
-ID: 213466899
 Assignment: 1
 *******************/
 #include <stdio.h>
